@@ -1,0 +1,10 @@
+ID,Name,Join_Date,Department,Salary,Performance
+1,alice ,2021/01/15,Engineering,78000,Excellent
+2,BOB,2020-11-03,Engineering,85000,Good
+3,Charlie,2021-02-28,Sales,91000,Good
+4,David,,Finance,120000,Excellent
+5,Eva,2021-05-10,finance,600000,Excellent
+6,,2021-04-22,Engineering,NaN,Fair
+7,Frank,2021/06/05,Sales,82000,good
+8,Gina,2021-06-07,Engineering,82000,Good
+8,Gina,2021-06-07,Engineering,82000,Good
